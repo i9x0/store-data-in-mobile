@@ -1,5 +1,7 @@
 # store-data-in-mobile
 - react native
+- open in expo snack https://snack.expo.dev/
+
 ###  before save data
 ![image](https://user-images.githubusercontent.com/63082758/202925684-d947ce65-81ef-45ee-a73d-7bd9cd784223.png)
 
